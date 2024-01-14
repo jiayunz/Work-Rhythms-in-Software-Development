@@ -10,7 +10,7 @@ import seaborn as sns
 import pandas as pd
 import os
 
-data_dir = '../../company'
+data_dir = '../data'
 raw_data_path = os.path.join(data_dir, 'data.json')
 user_path = os.path.join(data_dir, 'users.json')
 account2no_path = os.path.join(data_dir, 'account2no.json')

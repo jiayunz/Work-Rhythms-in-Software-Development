@@ -1,9 +1,10 @@
 # Understanding Work Rhythms in Software Development and Their Effects on Technical Performance
 
-## Replication package
+Replication package.
 
-### GitHub account and repos of organization in our dataset include:
+The data can be retrieved directly from GitHub with its official API. You may refer to [this repo](https://github.com/jiayunz/GitHub_Crawler).
 
+### The list of organizations and their repos in our dataset:
 #### thx
 ```
 "thx/magix-combine-tool-config", "thx/brix-bower", "thx/magix-transform-jsx", "thx/magix-cli-book", "thx/brix-event", "thx/brix-release", "thx/brix-spec", "thx/magix-hmr", "thx/RAP.node", "thx/magix-demo-ppt", "thx/magix", "thx/magix-api", "thx/magix-combine-1.2.10-ex", "thx/magix-gallery", "thx/brix-core", "thx/minecraft-animation", "thx/magix-combine", "thx/magix-demo-ad", "thx/magix-bp", "thx/brix-base", "thx/news", "thx/rap2-delos", "thx/thx.github.io", "thx/brix-bisheng", "thx/brix-vue", "thx/base", "thx/magix-composer", "thx/animore", "thx/magix-doc3", "thx/mux.alimama.com", "thx/kslite", "thx/gitbook-to-gh-pages", "thx/brix-animation", "thx/cube", "thx/magix-inspector", "thx/brix-loader", "thx/magix-os", "thx/iconfont-plus", "thx/magix-combo", "thx/RAP_CLI", "thx/crox", "thx/RAP", "thx/auto-open-chrome", "thx/FE-tools", "thx/vscode-magix", "thx/magix-todo-app", "thx/bisheng", "thx/magix-project", "thx/magix-app-build", "thx/canvax", "thx/image_grabber", "thx/magix-local", "thx/html-code-guide", "thx/brix-components", "thx/tanxssp-showcase", "thx/magix-atom", "thx/brix-components-boilerplate", "thx/chartx", "thx/algorithm", "thx/brix-style", "thx/magix-loader", "thx/rap2-dolores"
